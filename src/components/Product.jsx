@@ -3,7 +3,7 @@ import img1 from "./images/desktop/promo_ipad_air__bfbxzvw65c02_large.jpg";
 import img2 from "./images/Products/promo_iphone_tradein__bugw15ka691e_medium.jpg";
 import img3 from "./images/desktop/promo_ios18__eo1lt24j3wk2_large.jpg";
 import img4 from "./images/Products/promo_iphone_family__ofrg9zdy1teq_medium.jpg";
-import Button from "./Common/Button";
+import Button from "./common/Button";
 
 const Product = () => {
   const productData = [
