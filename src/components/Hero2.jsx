@@ -1,7 +1,7 @@
 import React from 'react';
 import mobileImages from "./images/mobile/hero_macbook_air_avail__fpm99qgohx2e_small.jpg";
 import desktopImages from "./images/desktop/hero_macbook_air_avail__fpm99qgohx2e_largetall.jpg";
-import Button from "./Common/Button";
+import Button from "./common/Button";
 
 const Hero2 = () => {
   const isDesktop = window.innerWidth >= 768;
